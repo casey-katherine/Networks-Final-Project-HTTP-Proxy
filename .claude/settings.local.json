@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -n \"strstr\\\\|strchr\" \"/Users/katherinecasey/Downloads/networks_fp-main 2\"/*.c)",
+      "Bash(grep -n \"strstr\\\\|strchr\" \"/Users/katherinecasey/Downloads/networks_fp-main 2/\"*.c)",
+      "Bash(grep \"\\\\.c$\")",
+      "Bash(grep -n \"strchr\\\\|strstr\" *.c)",
+      "Bash(grep -n \"if.*strstr\\\\|if.*strchr\" *.c)",
+      "Bash(cd:*)"
+    ]
+  }
+}
